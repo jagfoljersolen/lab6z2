@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug",
+	"dir-cur-src" : "/home/jagfoljersolen/CLionProjects/Lab6/Z2",
+	"dir-top-bld" : "/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug",
+	"dir-top-src" : "/home/jagfoljersolen/CLionProjects/Lab6/Z2",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/jagfoljersolen/CLionProjects/Lab6/Z2/boost_1_86_0"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug/CMakeFiles/Z2.dir"
+}

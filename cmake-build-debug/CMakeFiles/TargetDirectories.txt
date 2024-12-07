@@ -1,0 +1,3 @@
+/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug/CMakeFiles/Z2.dir
+/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jagfoljersolen/CLionProjects/Lab6/Z2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

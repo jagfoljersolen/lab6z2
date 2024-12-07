@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Z2.dir/main.cpp.o: dyndep
+
+build CMakeFiles/Z2.dir/Contact.cpp.o: dyndep
+
+build CMakeFiles/Z2.dir/Contacts.cpp.o: dyndep
+
